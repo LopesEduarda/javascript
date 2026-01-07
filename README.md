@@ -1,4 +1,4 @@
-# JavaScript do Básico ao Avançado 🚀
+# JavaScript do Básico ao Avançado 
 
 Este repositório é um guia completo de estudos de JavaScript, organizado por tópicos, com explicações, exemplos práticos e exercícios resolvidos.
 
