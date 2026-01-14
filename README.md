@@ -2,6 +2,7 @@
 
 Este repositório é um guia completo de estudos de JavaScript, organizado por tópicos, com explicações, exemplos práticos e exercícios resolvidos.
 
+
 ## 📚 Conteúdo
 
 - **01-variaveis-tipos.js**: Variáveis e Tipos de Dados
